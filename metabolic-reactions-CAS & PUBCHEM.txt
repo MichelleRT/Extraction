@@ -1,0 +1,31 @@
+#Name	PubChem		CAS
+atropine     21608699	51-55-8
+tropate     5460086	529-64-6
+chlorobenzene     7964	108-90-7
+D-glucono-1,5-lactone     7027	90-80-2
+1,1,1-trichloro-2,2-bis(4-chlorophenyl)ethane     3036	50-29-3
+1,1-dichloro-2,2-bis(4-chlorophenyl)ethylene     3035	72-55-9
+alginate     25202446	9005-32-7
+5-hydroxymethyluracil     78168	4433-40-3
+allantoin     204	97-59-6
+carbamoyl phosphate     3423467	590-55-6
+H+     1038	12408-02-5
+L-citrulline     6992098	372-75-8
+2-nitrophenol     4191617	88-75-5
+D-alanine     7311725	338-69-2
+cyclohex-2-enone     13594	930-68-7
+4-methylsalicylate     54675829	50-85-1
+aspirin     3434975	50-78-2
+quinaldate     3538644	93-10-7
+pyridoxamine     25245492	85-87-0
+(Z)-but-2-enol     643789	4088-60-2
+alpha-selinene     10123	473-13-2
+L-alanine     7311724	56-41-7
+fructose 1,6-bisphosphate     5460765	488-69-7
+phosphoenolpyruvate     3674425	73-89-2
+picolinate     6920223	98-98-6
+O-phosphoethanolamine     7059434	1071-23-4
+purine     1044		120-73-0
+L-threonine 3-O-phosphate     36688171	1114-81-4
+
+
