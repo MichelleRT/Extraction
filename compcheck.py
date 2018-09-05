@@ -11,9 +11,9 @@ import io
 4) Close the files and use pcid.py for pubchem id's :) 
 
 """
-olistfile = open("checkcomptext/olist.txt", "r")
-testfile = open("checkcomptext/test.txt", "r")
-newcompfile = open("checkcomptext/newcomp.txt", "a")
+olistfile = open("checkcomptext/olist.txt","r") 
+testfile = open("checkcomptext/test.txt","r")
+newcompfile = open("checkcomptext/newcomp.txt","a") 
 
 ### Declare array for storing olistfile compounds
 arr = []
@@ -21,7 +21,8 @@ arr = []
 "Store the compounds from olistfile into an array for comparison check"
 for line in olistfile:
     comp = line.strip()
-    arr.append(comp)
+    arr.append(comp) 
+# print arr
 
 ### If the compound in testfile is not in olistfile, add to newcompfile
 for line in testfile:
