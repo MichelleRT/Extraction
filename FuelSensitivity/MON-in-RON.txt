@@ -1,0 +1,329 @@
+#Name	Data
+ethane	49.525
+propane	96.85
+n-butane	82.14
+n-pentane	62.79
+n-hexane	35.06
+n-heptane	0.67
+n-octane	-11.67
+isobutane	97.6
+isopentane	90.3
+neopentane	80.2
+2-methylpentane	70.76
+3-methylpentane	71.2
+2,2-dimethylbutane	85.67
+2,3-dimethylbutane	84.54
+2-methylhexane	54.43
+3-methylhexane	58.52
+3-ethylpentane	66.1
+2,2-dimethylpentane	80.45
+2,3-dimethylpentane	81.82
+2,4-dimethylpentane	76.12
+3,3-dimethylpentane	76.425
+2,2,3-trimethylbutane	76.43
+2-methylheptane	34.69
+3-methylheptane	43
+4-methylheptane	51.13
+3-ethylhexane	57.27
+2,2-dimethylhexane	73
+2,3-dimethylhexane	69.8
+2,4-dimethylhexane	66.96
+2,5-dimethylhexane	55.7
+3,3-dimethylhexane	70.6
+3,4-dimethylhexane	73.66
+2-methyl-3-ethylpentane	85.07
+3-methyl-3-ethylpentane	88.7
+2,2,3-trimethylpentane	99.93
+2,2,4-trimethylpentane	99.4
+2,3,3-trimethylpentane	100.7
+2,3,4-trimethylpentane	95.9
+2,2-dimethylheptane	57.25
+3,3-diethylpentane	94.3
+2,2-dimethyl-3-ethylpentane	99.5
+2,4-dimethyl-3-ethylpentane	96.6
+2,2,3,3-tetramethylpentane	93.5
+3,3,5-trimethylheptane	88.7
+2,2,3,3-tetramethylhexane	93.27
+methylcyclopropane	81.2
+ethylcyclopropane	83.8
+cis-1,2-dimethylcyclopropane	84.3
+ethylcyclobutane	63.9
+cyclopentane	83.425
+methylcyclopentane	78
+ethylcyclopentane	51.1
+1,1-dimethylcyclopentane	89.3
+cis-1,3-dimethylcyclopentane	73.1
+trans-1,3-dimethylcyclopentane	72.6
+n-propylcyclopentane	28.1
+isopropylcyclopentane	76.2
+cis-l-methyl-3-ethyl-cyclopentane	59.8
+trans-1-methyl-3-ethyl-cyclopentane	59.8
+1,1,3-trimetmylcyclopentane	83.5
+l,cis-2,trans-4-trimetmyl-cyclopentane	79.5
+n-butylcyclopentane	2
+isobutylcyclopentane	28.2
+cyclohexane	77.25
+methylcyclohexane	70.7
+ethylcyclohexane	40.8
+1,1-dimethylcyclohexane	85.9
+cis-1,2-dimethylcyclohexane	78.6
+trans-1,2-dimethylcyclohexane	78.7
+cis-i,3-dimetmylcyclohexane	71
+trans-1,3-dimethylcyclohexane	64.2
+cis-i,4-dimethylcyclohexane	68.2
+trans-1,4-dimethylcyclohexane	62.2
+n-propylcyclohexane	14
+isopropylcyclohexane	60.55
+cycloheptane	40.2
+cyclooctane	58.2
+ethylene	75.6
+propylene	84.9
+1-butene	80.8
+cis-2-butene	83.5
+1-pentene	76.73
+2-methyl-1-butene	81.9
+2-methyl-2-butene	84.7
+1-hexene	63.4
+trans-2-hexene	80.8
+trans-3-hexene	81.05
+2-methyl-1-pentene	81.5
+3-methyl-1-pentene	81.2
+4-methyl-1-pentene	79.27
+2-methyl-2-pentene	83
+trans-3-methyl-2-pentene	81
+cis-4-methyl-2-pentene	84.5
+trans-4-methyl-2-pentene	82.6
+2-ethyl-1-butene	79.4
+2,3-dimethyl-1-butene	83.9
+3,3-dimethyl-1-butene	93.3
+2,3-dimethyl-2-butene	80.5
+1-heptene	50.7
+trans-2-heptene	68.8
+trans-3-heptene	79.3
+2-methyl-1-hexene	77.4
+3-methyl-1-hexene	71.5
+4-methyl-1-hexene	74
+5-methyl-1-hexene	64
+2-methyl-2-hexene	79.2
+cis-3-methyl-2-hexene	80
+trans-3-methyl-2-hexene	79.6
+trans-4-methyl-2-hexene	83
+trans-5-methyl-2-hexene	81
+trans-2-methyl-3-hexene	82
+trans-3-methyl-3-hexene	81.4
+3-ethyl-1-pentene	81.6
+3-ethyl-2-pentene	80.6
+2,3-dimethyl-1-pentene	83.6
+2,4-dimethyl-1-pentene	84.6
+3,3-dimethyl-1-pentene	86.1
+3,4-dimethyl-1-pentene	80.9
+4,4-dimethyl-1-pentene	85.4
+2,3-dimethyl-2-pentene	80
+2,4-dimethyl-2-pentene	85.15
+cis-3,4-dimethyl-2-pentene	82.2
+cis-4,4-dimethyl-2-pentene	90.2
+trans-4,4-dimethyl-2-pentene	90.9
+3-methyl-2-ethyl-1-buteme	82
+2,3,3-trimethyl-1-butene	90.67
+1-octene	34.7
+trans-2-octene	56.5
+trans-3-octene	68.1
+trans-4-octene	74.3
+2-methyl-1-heptene	66.3
+2,3-dimethyl-1-hexene	83.6
+2,3-dimethyl-2-hexene	79.65
+cis-2,2-dimethyl-3-hexene	88
+2,3,3-trimethyl-1-pentene	87.85
+2,4,4-trimethyl-1-pentene	86.75
+2,4,4-trimethyl-2-pentene	86.2
+3-methyl-1,2-butadiene	42.4
+2-methyl-1,3-butadiene	81
+1,5-hexadiene	37.6
+cyclopentene	69.7
+1-methyl-cyclopentene	72.9
+1-ethylcyclopentene	72
+3-ethylcyclopentene	71.4
+cyclohexene	63
+1-methylcyclohexene	72
+1-ethylcyclohexene	70.5
+dimethylacetylene	70.2
+1-octyne	51.5
+benzene	94.66
+toluene	96.14
+ethylbenzene	93.06
+o-xylene	105.75
+m-xylene	123.93
+p-xylene	124.73
+n-propylbenzene	108.23
+isopropylbenzene	99.3
+o-ethyltoluene	92.1
+m-ethyltoluene	100
+1,2,3-trimethylbenzene	99.55
+1,2,4-trimethylbenzene	105.67
+1,3,5-trimethylbenzene	114.87
+n-butylbenzene	94.25
+isobutylbenzene	98
+sec-butylbenzene	95.7
+tert-butylbenzene	103.9
+1-methyl-2-n-propylbenzene	92.2
+1-methyl-3-n-propylbenzene	98
+o-cymene	96
+p-cynene	97.7
+m-diethylbenzene	97
+p-diethylbenzene	95.2
+1,2-dimethyl-3-ethylbenzene	91.9
+1,3-dimethyl-4-ethylbenzene	95.9
+1,3-dimethyl-5-ethylbenzene	100.2
+1,4-dimethyl-2-ethylbenzene	96
+1,2,3,4-tetramethylbenzene	100
+styrene	97.1
+cis-l-propenyl benzene	91.7
+trans-l-propenyl benzene	92.1
+2-propenyl benzene	100.1
+1,2,3,4-tetrahydronaphthalene	81.9
+indene	100.7
+2,3-dihydroindene	89.8
+2,2-Dimethyloctane	46
+4,5-Diethyloctane	25
+Isononane	11
+1,2-Diethyl-3-methylbenzene	97
+1,2-Dimethylbenzene	99
+1,3-Diethylbenzene	99
+1,4-Diethylbenzene	94
+1,2,3,5-Tetramethylbenzene	102
+1-Methyl-3-ethylbenzene	102
+1-Methyl-4-ethylbenzene	102
+Allylbenzene	93
+Isopropyl benzene (CUMENE)	102
+Mesitylene	111
+ortho-Xylene	99
+sec-Pentylbenzene	89
+1,1,2-Trimethylcyclohexane	89.35
+1,1,2-Trimethylcyclopropane	88
+1,1,cis-2, trans-4-Tetramethylcyclopentane	95
+1,3-Dimethylcyclohexane	64
+1,cis-2,trans-3-Trimethylcyclohexane	83
+1,cis-2-Dimethylcyclohexane	76
+1,cis-2-Dimethylcyclopropane	89
+1,cis-3,trans-5-Trimethylcyclohexane	66
+1,cis-3-Dimethylcyclohexane	64
+1,cis-3-Dimethylcyclopentane	73
+1,cis-4-Dimethylcyclohexane	66
+1,trans-2,trans-4-Trimethylcyclohexane	74
+1,trans-2-Dimethylcyclohexane	75
+1,trans-2-Dimethylcyclopropane	86
+1,trans-3-Dimethylcyclohexane	66
+1,trans-4-Dimethylcyclohexane	64
+1-Methyl-1-ethylcyclohexane	76
+1-Methyl-cis-2-n-propylcyclohexane	37
+1-Methyl-trans-2-n-propylcyclohexane	36
+3-Cyclohexylhexane	43
+Cyclopentylcyclopentane	12
+Cyclopropane	125
+tert-Butylcyclohexane	85
+2,2-Dimethyl-trans-3-hexene	93
+2,5-Dimethyl-2,4-hexadiene	76
+2,5-Dimethyl-2-hexene	81
+2-Methyl-trans-3-heptene	79
+2-Methyl-trans-3-hexene	86
+3,4-Dimethyl-cis-2-pentene	85
+3-Methyl-trans-2-hexene	77
+3-Methyl-trans-2-pentene	82
+4-Methyl-trans-2-hexene	84
+4-Methyl-trans-2-pentene	85
+5-Methyl-trans-2-hexene	78
+(4E)-nonene (racemic)	-16.7
+2,4-dimethyl-3-pentanone	92.5
+2,5-diethylcyclopentane	16.5
+2,5-Dimethylfuran	88.1
+2-butanol	93
+2-methyl-1-butanol	87.9
+2-methylfuran	86.1
+2-Methyltetrahydrofuran	73
+2-pentanone	103.4
+2-pentene (racemic)	82.5
+3-ethyl nonane	-82.7
+3-ethyl octane	-44.4
+3-methyl-2-buten-1-ol	74
+3-methyloctane	-6.2
+3-Pentanol	90.8
+3-Pentanone	99.9
+4-Heptanone	89.1
+4Z-octene (cis)	50.5
+4E-octene (trans)	74
+2, 2, 3- Trimethylbutane	101
+2, 2, 3, 3- tetramethyl-butane	103.5
+1- ethyl- 1- methyl-cyclopentane	73.4
+Cyclopentanone	89
+2- ethoxy- 2- methyl-propane	103
+Furan	91.6
+dihydro- 5- methyl-2(3H) - furanone	100
+2- methylhexane	46
+2, 4- dimethylhexane	69.8
+2-Butanone	105.5
+Acetic acid, methyl ester	120.3
+4- methyl-2- pentanone	105.5
+7- methyl- 3- methylene-1, 6- octadiene	76.6
+1-Butanol	85
+n-Propanol	89
+Pentan-1-ol	76
+2, 6, 6- trimethyl- , (1R, 5R) -bicyclo[3.1.1] hept- 2- ene	57.3
+1- methyl- 4- (1- methylethyl) -1, 3- cyclohexadiene ( )	82.9
+1- methyl- 4- (1- methylethyl) -1, 4- cyclohexadiene (gamma)	82.9
+Methylbenzene	104
+Methoxybenzene	90.5
+1-methoxy-4-methyl-benzene	92
+2-Heptanone	78.1
+Hexanoic acid, methyl ester	84
+Acetic acid ethyl ester	120.3
+Butanoic acid, ethyl ester	106.2
+Hexanoic acid, ethyl ester	74.7
+3,7-dimethyl-1,3,6-octatriene	86.8
+Butanoic Acid, butyl ester	90.7
+2-methylpropan-1-ol	90
+1-Methyl-4-(1-methylethyl) benzene	98
+4,6,6-trimethylbicyclo[3.1.1]heptane	65
+4,7,7-trimethylbicyclo[4.1.0]hept-3-ene	55.8
+1,3,3-Trimethyl-2-oxabicyclo[2,2,2]octane	91.2
+Ethyl 2-methylpropanoate	109.5
+Methyl-2-methylbutanoate	99.1
+Butyl acetate	100.2
+3-Methylbutyl acetate	97.2
+Methylbutanoate	105.2
+1-methyl-4-propan-2-ylcyclohexane	60
+4,7,7-trimethylbicyclo[4.1.0]heptane	78.1
+1-Isopropyl-4-methylbicyclo[3.1.0]hexane	75.6
+(1S,4S)-1,7,7-trimethylbicyclo[2.2.1]heptane	91
+Decane	-38
+3-Methylbutan-1-ol	86.8
+(1-methylethyl)benzene	99
+Ethanol	91.45
+2-Methyl-3-buten-2-ol	95
+2-Methylpropyl ester, acetic acid	112.3
+1-Methylethyl ester, acetic acid	120
+2,4-Dimethyl-1-heptene	60.5
+2-Methyl propanoic acid, methyl ester	104.7
+3-Methyl-2-butanone	102.2
+1-Hexanol	64.1
+1,5,5-trimethylcyclopentene	88.8
+Pentanoic acid, methyl ester	101.1
+Methanol	89
+Ethyl 2-hydroxypropanoate	108.1
+3-ethoxy-butanoic acid ethyl ester	88.3
+n‐decane	-30
+n‐undecane	-35
+n‐dodecane	-40
+n‐butenes	82.1
+n‐hexenes	80
+MTBE	97.2
+TAME	98
+3-Octene	68.1
+3-Ethylheptane	52.4
+1,2,4-Trimethylcyclopentane	79.5
+1,1,2,4-Tetramethylcyclopentane	88
+2-Butene	99.9
+3-Hexene	80.1
+2-Heptene	68.8
+3-Heptene	79.3
+4,4-Dimethyl-1-heptene	74.8
+4-Octene	80.6

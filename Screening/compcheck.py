@@ -1,7 +1,3 @@
-import sys
-import os
-import io
-
 """
 
 1) Open the files
@@ -11,6 +7,11 @@ import io
 4) Close the files and use pcid.py for pubchem id's :) 
 
 """
+import sys
+import os
+import io
+
+
 olistfile = open("checkcomptext/olist.txt","r") 
 testfile = open("checkcomptext/test.txt","r")
 newcompfile = open("checkcomptext/newcomp.txt","a") 
