@@ -1,3 +1,13 @@
-Vinyl cyclohexane
-2-Octene
-2,6-Dimethylheptene
+n-hexene
+MTBE
+TAME
+3-Octene
+3-Ethylheptane
+1,2,4-Trimethylcyclopentane
+1,1,2,4-Tetramethylcyclopentane
+2-Butene
+3-hexene
+2-heptene
+3-heptene
+4,4-dimethyl-1-heptene
+4-octene 
